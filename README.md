@@ -31,4 +31,4 @@
 
 ### 参考文档
 
-- [矩阵连乘问题](
+- [矩阵连乘问题](https://blog.csdn.net/qq_32919451/article/details/80643118)
